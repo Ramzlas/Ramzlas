@@ -1,4 +1,4 @@
-<h1 align="center">  📈 Hola, soy Ramiro Nicolás Díaz / Ramzlás </h1> 
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola, soy Ramiro Nicolás Díaz / Ramzlás </h1> 
 
 <p align="left" style="display: flex; gap: 0; line-height: 0;">
     <a href="https://www.instagram.com/ramidiazzzz/" target="_blank">
@@ -37,3 +37,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postgresql,github&theme=dark&perline=3" />
   </a>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramzlas&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzlas&layout=compact&theme=dark)
