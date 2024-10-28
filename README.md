@@ -2,7 +2,7 @@
 
 <p align="left"> 
     <a href="https://www.instagram.com/ramidiazzzz/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+      <img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://x.com/rami_diazz" target="_blank">
       <img align="center" src="https://img.shields.io/badge/X-14171A?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
     <a href="https://www.linkedin.com/in/ramironicolasdiaz/" target="_blank">
@@ -11,6 +11,16 @@
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Whatsapp-25C266?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+    <a href="" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
+    <a href="" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Twitch-8956FB?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+    <a href="" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    
+    
 </p>
 
 <h2> Sobre mi </h2>
