@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/ramironicolasdiaz/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     <a href="mailto:ramironicolasdiazz@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+      <img src="https://img.shields.io/badge/Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Whatsapp-25C266?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
     <a href="" target="_blank">
