@@ -1,7 +1,7 @@
 <h1 align="center"> Hola, soy Ramiro Nicolás Díaz / Ramzlás </h1> 
 
 <p align="left"> 
-    <a href="https://www.instagram.com/ramidiazzzz/?hl=es" target="_blank">
+    <a href="https://www.instagram.com/ramidiazzzz/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://x.com/rami_diazz" target="_blank">
       <img align="center" src="https://img.shields.io/badge/X-14171A?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
@@ -9,6 +9,8 @@
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     <a href="mailto:ramironicolasdiazz@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Whatsapp-25C266?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
 <h2> Sobre mi </h2>
