@@ -19,8 +19,10 @@
       <img align="center" src="https://img.shields.io/badge/Twitch-8956FB?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
     <a href="" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    
-    
+    <a href="" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/w3schools-4CAF50?style=for-the-badge&logo=w3schools&logoColor=white" alt="w3schools"></a>
+    <a href="" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Daily.dev-5f37e9?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev"></a>
 </p>
 
 <h2> Sobre mi </h2>
