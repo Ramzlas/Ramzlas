@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, soy Ramiro Nicolás Díaz / Ramzlás </h1> 
+<h1 align="center">  📈 Hola, soy Ramiro Nicolás Díaz / Ramzlás </h1> 
 
 <p align="left" style="display: flex; gap: 0; line-height: 0;">
     <a href="https://www.instagram.com/ramidiazzzz/" target="_blank">
