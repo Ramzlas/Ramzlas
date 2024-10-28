@@ -27,16 +27,29 @@
 
 <h2> Sobre mi </h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 <p align="left">  
   Soy estudiante de licenciatura en sistemas, principalmente me encuentro desarollandome en <strong>Python</strong>, orientado principalmente en análisis de datos, utilizando bibliotecas como Pandas y NumPy. Además, de Matplotlib y Seaborn. En el ámbito del manejo de bases de datos, tengo conocimientos en <strong>PostgreSQL</strong>.
 </p>
 
 <h3> Tecnologías conocidas </h3>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postgresql,github&theme=dark&perline=3" />
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramzlas&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzlas&layout=compact&theme=dark)
+<img src="">
+
+<a href='https://github.com/Ramzlas/github-stats-transparent'></a>
+
+<details>
+  <summary> <b>⚡ Github Stats </b> </summary>
+    
+<hr>
+<h3 align="left"> Frase diaria al programador: </h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Cita diaria" />
+</p>
+<hr>
