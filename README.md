@@ -23,6 +23,8 @@
       <img src="https://img.shields.io/badge/w3schools-4CAF50?style=for-the-badge&logo=w3schools&logoColor=white" alt="w3schools"></a>
     <a href="https://app.daily.dev/ramzlas" target="_blank">
       <img src="https://img.shields.io/badge/Daily.dev-5f37e9?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev"></a>
+    <a href="https://letterboxd.com/ramzlas/" target="_blank">
+      <img src="https://img.shields.io/badge/Letterboxd-ff8000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"></a>    
 </p>
 
 <h2> Sobre mi </h2>
