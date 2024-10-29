@@ -11,17 +11,17 @@
       <img src="https://img.shields.io/badge/Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Whatsapp-25C266?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
-    <a href="" target="_blank">
+    <a href="https://wa.me/5491160243817" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
-    <a href="" target="_blank">
+    <a href="ramiidiaz2015" target="_blank">
       <img src="https://img.shields.io/badge/Twitch-8956FB?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-    <a href="" target="_blank">
+    <a href="https://www.twitch.tv/ramzlas" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="" target="_blank">
+    <a href="https://www.w3profile.com/ramzl%C3%A1s" target="_blank">
       <img src="https://img.shields.io/badge/w3schools-4CAF50?style=for-the-badge&logo=w3schools&logoColor=white" alt="w3schools"></a>
-    <a href="" target="_blank">
+    <a href="https://app.daily.dev/ramzlas" target="_blank">
       <img src="https://img.shields.io/badge/Daily.dev-5f37e9?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev"></a>
 </p>
 
