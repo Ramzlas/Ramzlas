@@ -28,7 +28,7 @@
 <h2> Sobre mi </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramzlas&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 <p align="left">  
-  Soy estudiante de licenciatura en sistemas, principalmente me encuentro desarollandome en <strong>Python</strong>, orientado principalmente en análisis de datos, utilizando bibliotecas como Pandas y NumPy. Además, de Matplotlib y Seaborn. En el ámbito del manejo de bases de datos, tengo conocimientos en <strong>PostgreSQL</strong>.
+  Soy estudiante de licenciatura en sistemas, me encuentro desarollandome en <strong>Python</strong>, orientado principalmente en análisis de datos, utilizando bibliotecas como Pandas y NumPy. Además, de Matplotlib y Seaborn. En el ámbito del manejo de bases de datos, tengo conocimientos en <strong>PostgreSQL</strong>.
 </p>
 
 <h3> Tecnologías conocidas </h3>
