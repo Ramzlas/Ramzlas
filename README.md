@@ -40,5 +40,3 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postgresql,github&theme=dark&perline=3" />
   </a>
-
-;)
