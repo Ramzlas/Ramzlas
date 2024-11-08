@@ -36,8 +36,14 @@
 <h3>Tecnologías conocidas</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postgresql,github&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postgresql,github&theme=dark&perline=3"/>
   </a>
+
+<p align="left">
+  <a href="https://github.com/Ramzlas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzlas&layout=compact" alt="Top Langs">
+  </a>
+</p>
 
 <details>
   <summary>Portfolio</summary>
