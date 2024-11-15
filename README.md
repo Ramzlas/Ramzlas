@@ -31,7 +31,7 @@
 
 <h2>Sobre mi</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramzlas&label=Profile%20views&color=0e75b6&style=flat" alt="Ramzlás"/> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> </p>
-<p align="left">Soy estudiante de la Tecnicatura en Programación en la Universidad Nacional de Guillermo Brown (UNAB). Actualmente, me estoy especializando en <strong>Python</strong>, con un enfoque en análisis de datos utilizando bibliotecas como <strong>Pandas</strong> y <strong>NumPy</strong>, además de <strong>Matplotlib</strong> y <strong>Seaborn</strong> para visualización de datos. También tengo buen manejo de bases de datos con <strong>SQL</strong> y un buen nivel en <strong>Excel</strong>.</p>
+<p align="left">Soy estudiante de la Tecnicatura en Programación en la Universidad Nacional de Guillermo Brown (UNAB). Actualmente, me estoy especializando en <strong>Python</strong>, con un enfoque en análisis de datos utilizando bibliotecas como <strong>Pandas</strong> y <strong>NumPy</strong>, además de <strong>Matplotlib</strong> y <strong>Seaborn</strong> para visualización de datos. También tengo buen manejo de bases de datos con <strong>SQL</strong> y un buen nivel en <strong>Excel</strong>. Actualmente también estoy comenzando a utilizar Linux (Mint) como mi sistema operativo principal.</p>
 
 
 <h3>Tecnologías conocidas</h3>
