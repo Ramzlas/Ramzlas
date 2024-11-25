@@ -52,5 +52,5 @@
 <details>
   <summary>Portfolio</summary>
 </br>
-  <pre>Pendiente... 🤷‍♂</pre>
+  <pre>Pendiente... ⏲️</pre>
 </details>
