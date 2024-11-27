@@ -27,6 +27,8 @@
       <img src="https://img.shields.io/badge/Letterboxd-ff8000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"></a>    
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+    <a href="https://www.goodreads.com/ramzlas" target="_blank">
+      <img src="https://img.shields.io/badge/Goodreads-00635d?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads"></a>
 </p>
 
 <h2>😎 Sobre mi</h2>
