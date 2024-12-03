@@ -39,7 +39,7 @@
 <h2>🔧 Tecnologias conocidas</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postgresql,github&theme=dark&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ruby,python,postgresql,github,linux,mint,sublime&theme=dark&perline=5"/>
   </a>
 
 <details>
