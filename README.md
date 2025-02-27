@@ -46,7 +46,16 @@
   <summary>Lenguajes más usados</summary>
     <p align="center">
     <a href="https://github.com/Ramzlas">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzlas&layout=compact" alt="Lenguajes más usados">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzlas&layout=compact" alt="Lenguajes más usados">
+    </a>
+</p>
+</details>
+
+<details>
+  <summary>Estadisticas GitHub</summary>
+    <p align="center"
+    <a href="https://github.com/Ramzlas">
+        <img src="https://github-readme-stats.vercel.app/api?username=ramzlas&show_icons=true&bg_color=264653&text_color=ffffff&border_color=ffffff&locale=es" alt="Estadisticas de GitHub">
     </a>
 </p>
 </details>
