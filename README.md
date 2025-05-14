@@ -22,12 +22,46 @@ Además, estoy explorando herramientas como **Power BI** y ampliando mis habilid
 Recientemente he migrado mi entorno de trabajo a **Linux Mint**, buscando mayor eficiencia y personalización en mis flujos de trabajo.
 
 ---
-
 ## ⚙️ Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,ruby,postgresql,linux,mint,github,vscode&theme=light" />
-</p>
+<table align="center">
+  <thead>
+    <tr>
+      <th>🖥️ Sistemas Operativos 🖥️</th>
+      <th>🌐 Desarrollo Web 🌐</th>
+      <th>💻 Lenguajes 💻</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=windows,mint&theme=light" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,ruby&theme=light" />
+      </td>
+    </tr>
+    <tr>
+      <th>🧩 Bases de Datos 🧩</th>
+      <th>🛠️ Herramientas 🛠️</th>
+      <th>📓 Productividad 📓</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=light" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime&theme=light" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=obsidian&theme=light" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
