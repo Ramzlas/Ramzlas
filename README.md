@@ -1,53 +1,54 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Hola, soy Ramiro Nicolás Díaz / Ramzlás</h1> 
+<h1 align="center">
+  👋 Hola, soy Ramiro Nicolás Díaz / Ramzlás
+</h1>
 
-<p align="left" style="display: flex; gap: 0; line-height: 0;">
-    <a href="https://www.instagram.com/ramidiazzzz/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://www.linkedin.com/in/ramironicolasdiaz/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:ramironicolasdiazz@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://x.com/rami_diazz" target="_blank">
-      <img src="https://img.shields.io/badge/X-14171A?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-    <a href="https://www.w3profile.com/ramzl%C3%A1s" target="_blank">
-      <img src="https://img.shields.io/badge/w3schools-4CAF50?style=for-the-badge&logo=w3schools&logoColor=white" alt="w3schools"></a>
-    <a href="https://letterboxd.com/ramzlas/" target="_blank">
-      <img src="https://img.shields.io/badge/Letterboxd-ff8000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"></a>
+<p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" alt="Cool blob" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Ramzlas&label=Visitas%20al%20perfil&color=2a9d8f&style=flat-square" alt="Visitas al perfil" />
 </p>
 
-<h2>😎 Sobre mi</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramzlas&label=Profile%20views&color=2a9d8f&style=for-the-badge" alt="Ramzlás"/> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </p>
-<p align="left">Soy estudiante de la Tecnicatura en Programación en la Universidad Nacional de Guillermo Brown (UNAB), donde me especializo en el lenguaje de programación <strong>Python</strong>, con un enfoque particular en el análisis de datos. Trabajo con bibliotecas como <strong>Pandas</strong> y <strong>NumPy</strong> para la manipulación de datos, y utilizo <strong>Matplotlib</strong> y <strong>Seaborn</strong> para la visualización gráfica de los mismos. Además, cuento con experiencia en bases de datos utilizando <strong>SQL</strong>, y tengo un buen dominio de <strong>Excel</strong>. Recientemente, también he comenzado a transicionar de <strong>Windows</strong> a <strong>Linux (Mint)</strong> como mi sistema operativo principal.</p>
+---
 
+🎓 **Sobre mí**  
+Soy estudiante de la **Tecnicatura Universitaria en Programación** en la [UNAB](https://www.unab.edu.ar/), con un enfoque claro en el **análisis de datos**. Me especializo en el uso de **Python**, aprovechando librerías como:
 
-<h2>🔧 Tecnologias conocidas</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ruby,python,postgresql,github,linux,mint,sublime&theme=dark&perline=5"/>
-  </a>
+- `Pandas` y `NumPy` para manipulación de datos  
+- `Matplotlib` y `Seaborn` para visualización  
+- `SQL` para bases de datos relacionales  
+- `Excel` para análisis complementario  
+
+Además, estoy explorando herramientas como **Power BI** y ampliando mis habilidades en visualización de datos.  
+Recientemente he migrado mi entorno de trabajo a **Linux Mint**, buscando mayor eficiencia y personalización en mis flujos de trabajo.
+
+---
+
+## ⚙️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,ruby,postgresql,linux,mint,github,vscode&theme=light" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <details>
-  <summary>Lenguajes más usados</summary>
-    <p align="center">
-    <a href="https://github.com/Ramzlas">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzlas&layout=compact" alt="Lenguajes más usados">
-    </a>
-</p>
+  <summary><strong>Lenguajes más usados</strong></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzlas&layout=compact&theme=default" alt="Lenguajes más usados">
+  </p>
 </details>
 
 <details>
-  <summary>Estadisticas GitHub</summary>
-    <p align="center"
-    <a href="https://github.com/Ramzlas">
-        <img src="https://github-readme-stats.vercel.app/api?username=ramzlas&show_icons=true&bg_color=264653&text_color=ffffff&border_color=ffffff&locale=es" alt="Estadisticas de GitHub">
-    </a>
-</p>
+  <summary><strong>Estadísticas generales</strong></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ramzlas&show_icons=true&theme=default&locale=es" alt="Estadísticas de GitHub">
+  </p>
 </details>
 
-<details>
-  <summary>Portfolio</summary>
-</br>
-  <pre>Pendiente... ⏲️</pre>
-</details>
+---
+
+## 🚧 Portfolio
+
+> Pendiente... ⏳
