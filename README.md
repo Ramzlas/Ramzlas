@@ -11,7 +11,7 @@
 ---
 
 🎓 **Sobre mí**  
-Soy estudiante de la **Tecnicatura Universitaria en Programación** en la [UNAB](https://www.unab.edu.ar/), con un enfoque claro en el **análisis de datos**. Me especializo en el uso de **Python**, aprovechando librerías como:
+Soy estudiante de la **Tecnicatura Universitaria en Programación** en la [UNAB](https://www.unab.edu.ar/), con un enfoque claro en el **análisis de datos**. Me especializo en el uso de **Python**, utilizando herramientas como:
 
 - `Pandas` y `NumPy` para manipulación de datos  
 - `Matplotlib` y `Seaborn` para visualización  
