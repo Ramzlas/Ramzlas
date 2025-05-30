@@ -18,8 +18,8 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la [UNAB]
 - `SQL` para bases de datos relacionales  
 - `Excel` para análisis complementario  
 
-Además, estoy explorando herramientas como **Power BI** y ampliando mis habilidades en visualización de datos.  
-Recientemente he migrado mi entorno de trabajo a **Linux Mint**, buscando mayor eficiencia y personalización en mis flujos de trabajo.
+Además, estoy profundizando en herramientas como **Power BI**, enfocándome en mejorar mis habilidades en visualización y análisis de datos.
+Actualmente trabajo con un entorno mixto entre **Linux Mint** y **Windows**, lo que me permite combinar eficiencia, personalización y compatibilidad con herramientas específicas.
 
 ---
 ## ⚙️ Tecnologías y herramientas
