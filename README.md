@@ -19,7 +19,7 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](ht
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas
 
 <details>
   <summary><strong>Lenguajes más usados</strong></summary>
