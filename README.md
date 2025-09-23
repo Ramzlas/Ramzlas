@@ -1,88 +1,46 @@
 <h1 align="center">
   👋 Hola, soy Ramiro Nicolás Díaz / Ramzlás
-</h1>
+  
+---
 
 <p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" alt="Cool blob" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" alt="Carita fachera" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ramzlas&label=Visitas%20al%20perfil&color=2a9d8f&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Ramzlas&label=Visitas%20al%20perfil&color=2a9d8f&style=flat" alt="Visitas al perfil" />
 </p>
 
----
+</h1>
 
-🎓 **Sobre mí**  
-Soy estudiante de la **Tecnicatura Universitaria en Programación** en la [UNAB](https://www.unab.edu.ar/), con un enfoque claro en el **análisis de datos**. Me especializo en el uso de **Python**, utilizando herramientas como:
+## 🎯 Sobre mí
+Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](https://www.unab.edu.ar/), apasionado por el **análisis de datos** y la eficiencia en el trabajo con información.  
 
-- `Pandas` y `NumPy` para manipulación de datos  
-- `Matplotlib` y `Seaborn` para visualización  
-- `SQL` para bases de datos relacionales  
-- `Excel` para análisis complementario  
-
-Además, estoy profundizando en herramientas como **Power BI**, enfocándome en mejorar mis habilidades en visualización y análisis de datos.
-Actualmente trabajo con un entorno mixto entre **Linux Mint** y **Windows**, lo que me permite combinar eficiencia, personalización y compatibilidad con herramientas específicas.
-
----
-## ⚙️ Tecnologías y herramientas
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>🖥️ Sistemas Operativos 🖥️</th>
-      <th>🌐 Desarrollo Web 🌐</th>
-      <th>💻 Lenguajes 💻</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=windows,mint&theme=light" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,ruby&theme=light" />
-      </td>
-    </tr>
-    <tr>
-      <th>🧩 Bases de Datos 🧩</th>
-      <th>🛠️ Herramientas 🛠️</th>
-      <th>📓 Productividad 📓</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=light" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime&theme=light" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=obsidian&theme=light" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+🛠️ **Habilidades principales:**
+- **Python:** `POO`, `Pandas`, `NumPy`, `Matplotlib` y `Seaborn`. 
+- **SQL**:  `PostgreSQL`, `SQLite`,
+- **Suites de oficina:** `LibreOffice`, `Microsoft Office`  
+- **Sistemas operativos:** `Linux Mint`, `Manjaro`, `Windows`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <details>
   <summary><strong>Lenguajes más usados</strong></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzlas&layout=compact&theme=default" alt="Lenguajes más usados">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzlas&layout=compact&theme=dracula" alt="Lenguajes más usados">
   </p>
 </details>
 
 <details>
   <summary><strong>Estadísticas generales</strong></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ramzlas&show_icons=true&theme=default&locale=es" alt="Estadísticas de GitHub">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ramzlas&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de GitHub">
   </p>
 </details>
 
 ---
 
-## 🚧 Portfolio
+## 💻 Portfolio
 
-> Pendiente... ⏳
+- 🌐 **Portafolio en línea:** [ramironicolasdiaz.com.ar](https://ramironicolasdiaz.com.ar)  
+- 👨‍💻 **Código fuente del portafolio:** [Repositorio GitHub](https://github.com/Ramzlas/Portfolio)
