@@ -1,7 +1,6 @@
 <h1 align="center">
-  👋 Hola, soy Ramiro Nicolás Díaz / Ramzlás
-  
----
+  👋 Hola, soy Ramiro Nicolás Díaz / Ramzlás 
+</h1>
 
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" alt="Carita fachera" />
@@ -9,16 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=Ramzlas&label=Visitas%20al%20perfil&color=2a9d8f&style=flat" alt="Visitas al perfil" />
 </p>
 
-</h1>
-
 ## 🎯 Sobre mí
 Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](https://www.unab.edu.ar/), apasionado por el **análisis de datos** y la eficiencia en el trabajo con información.  
 
 🛠️ **Habilidades principales:**
-- **Python:** `POO`, `Pandas`, `NumPy`, `Matplotlib` y `Seaborn`. 
-- **SQL**:  `PostgreSQL`, `SQLite`,
-- **Suites de oficina:** `LibreOffice`, `Microsoft Office`  
-- **Sistemas operativos:** `Linux Mint`, `Manjaro`, `Windows`
+- **Python:** `POO`, `Pandas`, `NumPy`, `Matplotlib` y `Seaborn`
+- **SQL:** `PostgreSQL` y `SQLite`
+- **Suites de oficina:** `LibreOffice` y `Microsoft Office`
+- **Sistemas operativos:** `Linux Mint`, `Manjaro` y `Windows`
 
 ---
 
@@ -40,7 +37,7 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](ht
 
 ---
 
-## 💻 Portfolio
+## 💻 Portafolio
 
-- 🌐 **Portafolio en línea:** [ramironicolasdiaz.com.ar](https://ramironicolasdiaz.com.ar)  
-- 👨‍💻 **Código fuente del portafolio:** [Repositorio GitHub](https://github.com/Ramzlas/Portfolio)
+- 🌐 **Sitio web del portafolio:** [ramironicolasdiaz.com.ar](https://ramironicolasdiaz.com.ar)
+- 👨‍💻 **Código fuente del portafolio:** [Repositorio en GitHub](https://github.com/Ramzlas/Portfolio)
