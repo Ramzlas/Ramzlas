@@ -40,4 +40,4 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](ht
 ## 💻 Portafolio
 
 - 🌐 **Sitio web del portafolio:** [ramironicolasdiaz.com.ar](https://ramironicolasdiaz.com.ar)
-- 👨‍💻 **Código fuente del portafolio:** [Repositorio en GitHub](https://github.com/Ramzlas/Portfolio)
+- 👨‍💻 **Código fuente del portafolio:** [Repositorio](https://github.com/Ramzlas/Portfolio)
