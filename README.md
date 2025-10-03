@@ -24,7 +24,6 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](ht
 <details>
   <summary><strong>Lenguajes más usados</strong></summary>
     <p align="center">
-
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzlas&layout=compact&locale=es&hide_title=true&title_color=ffffff&text_color=ffffff&icon_color=2A9D8F&bg_color=264653&border_color=ffffff" alt="Lenguajes más usados">
     </p>
 </details>
@@ -32,7 +31,6 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](ht
 <details>
   <summary><strong>Estadísticas generales</strong></summary>
     <p align="center">
-
       <img src="https://github-readme-stats.vercel.app/api?username=Ramzlas&show_icons=true&locale=es&hide_title=true&title_color=ffffff&text_color=ffffff&icon_color=2A9D8F&bg_color=264653&border_color=ffffff" alt="Estadísticas de GitHub">
     </p>
 </details>
