@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" alt="Carita fachera" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ramzlas&label=Visitas%20al%20perfil&color=2a9d8f&style=flat" alt="Visitas al perfil" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ramzlas&left_text=Vistas%20perfil&left_color=%23264653&right_color=%232a9d8f&radius=4" alt="visitor badge"/>
 </p>
 
 ## 🎯 Sobre mí
@@ -18,7 +18,7 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](ht
 - **Sistemas operativos:** `Linux Mint`, `Manjaro` y `Windows`
 
 ---
-<!--
+
 ## 📊 Estadísticas
 
 <details>
@@ -34,9 +34,8 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la [UNAB](ht
       <img src="https://github-readme-stats.vercel.app/api?username=Ramzlas&show_icons=true&locale=es&hide_title=true&title_color=ffffff&text_color=ffffff&icon_color=2A9D8F&bg_color=264653&border_color=ffffff" alt="Estadísticas de GitHub">
     </p>
 </details>
-"
+
 ---
--->
 
 ## 💼 Portafolio
 
